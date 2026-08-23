@@ -1,0 +1,12 @@
+[
+  {
+    "enabled": false,
+    "ecd_label": "example",
+    "path": "../example.dll",
+    "hash": "00000000",
+    "action": "log",
+    "reason": "manual review required",
+    "evidence_report_ids": []
+  }
+]
+
