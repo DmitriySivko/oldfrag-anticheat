@@ -66,7 +66,7 @@ public task_update()
 
 public manifest_done()
 {
-    if (!response_ok("manifest")) return;
+    if (!response_ok("manifest")) return 0;
     new error[128];
     new GripJSONValue:root = grip_json_parse_response_body(error, charsmax(error));
     if (root == Invalid_GripJSONValue) return fail_update("invalid manifest JSON");
@@ -87,11 +87,12 @@ public manifest_done()
     new GripBody:body = grip_body_from_string("");
     grip_request(g_group_url, body, GripRequestTypeGet, "group_done");
     grip_destroy_body(body);
+    return 0;
 }
 
 public group_done()
 {
-    if (!response_ok("group")) return;
+    if (!response_ok("group")) return 0;
     new written = grip_get_response_body_string(g_body, charsmax(g_body));
     if (written <= 0 || written >= charsmax(g_body)) return fail_update("empty or oversized group");
     new actual[65];
@@ -123,6 +124,7 @@ public group_done()
     g_next_group = (g_next_group + 1) % g_group_count;
     save_state();
     g_busy = false;
+    return 0;
 }
 
 bool:response_ok(const stage[])
@@ -140,6 +142,7 @@ fail_update(const reason[])
 {
     log_amx("Update rejected: %s", reason);
     g_busy = false;
+    return 0;
 }
 
 bool:safe_group_name(const value[])
@@ -159,4 +162,3 @@ save_state()
     new fp = fopen(g_state, "wt");
     if (fp) { fprintf(fp, "%d^n", g_next_group); fclose(fp); }
 }
-
