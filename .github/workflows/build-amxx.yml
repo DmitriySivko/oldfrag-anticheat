@@ -23,7 +23,8 @@ jobs:
       - name: Compile
         run: |
           chmod +x addons/amxmodx/scripting/amxxpc
-          addons/amxmodx/scripting/amxxpc scripting/oldfrag_anticheat.sma -iaddons/amxmodx/scripting/include -odist/oldfrag_anticheat.amxx
+          mkdir -p dist
+          LD_LIBRARY_PATH="$PWD/addons/amxmodx/scripting" addons/amxmodx/scripting/amxxpc scripting/oldfrag_anticheat.sma -iaddons/amxmodx/scripting/include -odist/oldfrag_anticheat.amxx
       - uses: actions/upload-artifact@v4
         with:
           name: oldfrag-anticheat-amxx
