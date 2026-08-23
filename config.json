@@ -1,0 +1,15 @@
+{
+  "source": "https://fungun.net/ecd/report/{report_id}/",
+  "allowed_build_markers": [
+    "Counter-Strike: 1.6",
+    "GSClient",
+    "GSClient+",
+    "NextClient"
+  ],
+  "rejected_build_markers": ["Counter-Strike: 2", "Counter-Strike: GO"],
+  "accepted_results": ["Обнаружены читы", "Обход сканера"],
+  "max_reports_per_run": 500,
+  "request_delay_seconds": 1.0,
+  "max_rules_per_group": 240
+}
+
