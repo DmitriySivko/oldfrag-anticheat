@@ -20,19 +20,23 @@ jobs:
           curl -fsSL https://www.amxmodx.org/amxxdrop/1.10/amxmodx-latest-base-linux.tar.gz -o amxx.tar.gz
           tar -xzf amxx.tar.gz
           cp scripting/include/grip.inc addons/amxmodx/scripting/include/grip.inc
-      - name: Compile
+      - name: Compile and checksum
         run: |
           chmod +x addons/amxmodx/scripting/amxxpc
           mkdir -p dist
           LD_LIBRARY_PATH="$PWD/addons/amxmodx/scripting" addons/amxmodx/scripting/amxxpc scripting/oldfrag_anticheat.sma -iaddons/amxmodx/scripting/include -odist/oldfrag_anticheat.amxx
+          cd dist
+          sha256sum oldfrag_anticheat.amxx > oldfrag_anticheat.amxx.sha256
       - uses: actions/upload-artifact@v4
         with:
           name: oldfrag-anticheat-amxx
-          path: dist/oldfrag_anticheat.amxx
+          path: |
+            dist/oldfrag_anticheat.amxx
+            dist/oldfrag_anticheat.amxx.sha256
       - name: Publish compiled plugin
         run: |
           git config user.name "oldfrag-anticheat-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add dist/oldfrag_anticheat.amxx
+          git add dist/oldfrag_anticheat.amxx dist/oldfrag_anticheat.amxx.sha256
           git diff --cached --quiet || git commit -m "build: update AMXX plugin"
           git push
