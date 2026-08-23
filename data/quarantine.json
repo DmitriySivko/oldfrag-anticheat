@@ -1,2 +1,108 @@
-{}
-
+{
+  "Active cheat injection": {
+    "count": 1,
+    "report_ids": [
+      376249
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
+  "HPP Hack": {
+    "count": 2,
+    "report_ids": [
+      376207,
+      376217
+    ],
+    "results": {
+      "Обнаружены читы": 2
+    }
+  },
+  "HPP Hack (loader.exe)": {
+    "count": 2,
+    "report_ids": [
+      376207,
+      376217
+    ],
+    "results": {
+      "Обнаружены читы": 2
+    }
+  },
+  "IMGUI LIBRARY SIGNATURE": {
+    "count": 2,
+    "report_ids": [
+      376207,
+      376217
+    ],
+    "results": {
+      "Обнаружены читы": 2
+    }
+  },
+  "Knifebot [#2]": {
+    "count": 2,
+    "report_ids": [
+      376283,
+      376289
+    ],
+    "results": {
+      "Обнаружены читы": 2
+    }
+  },
+  "LegitHPP": {
+    "count": 1,
+    "report_ids": [
+      376207
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
+  "Midnight Hack": {
+    "count": 1,
+    "report_ids": [
+      376249
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
+  "Robin hack": {
+    "count": 2,
+    "report_ids": [
+      376283,
+      376289
+    ],
+    "results": {
+      "Обнаружены читы": 2
+    }
+  },
+  "System32": {
+    "count": 2,
+    "report_ids": [
+      376283,
+      376289
+    ],
+    "results": {
+      "Обнаружены читы": 2
+    }
+  },
+  "UNKNOWNCHEATS WEBSITE (vermilion and setts_[unknowncheats.me]_.zip)": {
+    "count": 2,
+    "report_ids": [
+      376207,
+      376217
+    ],
+    "results": {
+      "Обнаружены читы": 2
+    }
+  },
+  "[CS16] [M] opengl32.dll hooked": {
+    "count": 1,
+    "report_ids": [
+      376217
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  }
+}
