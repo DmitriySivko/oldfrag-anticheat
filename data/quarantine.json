@@ -20,23 +20,26 @@
     }
   },
   "Alternative Hack": {
-    "count": 2,
+    "count": 3,
     "report_ids": [
       376671,
-      376735
+      376735,
+      377249
     ],
     "results": {
-      "Обнаружены читы": 2
+      "Обнаружены читы": 3
     }
   },
   "Alternative Hack (alternative hack)": {
-    "count": 2,
+    "count": 4,
     "report_ids": [
       376665,
-      376735
+      376735,
+      377249,
+      377327
     ],
     "results": {
-      "Обнаружены читы": 2
+      "Обнаружены читы": 4
     }
   },
   "Alternative Hack (cvtcsihxehdlg)": {
@@ -49,12 +52,13 @@
     }
   },
   "Alternative Hack.exe (NygreAngvir.uy.rkr)": {
-    "count": 1,
+    "count": 2,
     "report_ids": [
-      376665
+      376665,
+      377327
     ],
     "results": {
-      "Обнаружены читы": 1
+      "Обнаружены читы": 2
     }
   },
   "BlueMonday Hack": {
@@ -64,6 +68,34 @@
     ],
     "results": {
       "Обнаружены читы": 1
+    }
+  },
+  "BlueMonday Hack (bhop_presets)": {
+    "count": 1,
+    "report_ids": [
+      377327
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
+  "BlueMonday Hack (bluemonday)": {
+    "count": 1,
+    "report_ids": [
+      377327
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
+  "Cheat Driver Loader (kdmapper.exe)": {
+    "count": 2,
+    "report_ids": [
+      377126,
+      377142
+    ],
+    "results": {
+      "Обнаружены читы": 2
     }
   },
   "Crystal Hack (Pelfgny Unpx.rkr)": {
@@ -93,6 +125,15 @@
       "Обнаружены читы": 1
     }
   },
+  "Enigma euphoria crack": {
+    "count": 1,
+    "report_ids": [
+      377327
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
   "Evelion Hack (Riryvba.rkr)": {
     "count": 1,
     "report_ids": [
@@ -103,15 +144,17 @@
     }
   },
   "Evol hack": {
-    "count": 4,
+    "count": 6,
     "report_ids": [
       376514,
       376521,
       376671,
-      376735
+      376735,
+      377213,
+      377249
     ],
     "results": {
-      "Обнаружены читы": 4
+      "Обнаружены читы": 6
     }
   },
   "ExLoader Cheats": {
@@ -124,16 +167,19 @@
     }
   },
   "ExLoader Cheats (exloader_installer)": {
-    "count": 5,
+    "count": 8,
     "report_ids": [
       376514,
       376600,
       376682,
       376767,
-      376847
+      376847,
+      377213,
+      377327,
+      377395
     ],
     "results": {
-      "Обнаружены читы": 5
+      "Обнаружены читы": 8
     }
   },
   "ExLoader Installer": {
@@ -164,25 +210,28 @@
     }
   },
   "ExLoader Installer (ExLoader_Installer.exe)": {
-    "count": 1,
+    "count": 2,
     "report_ids": [
-      376514
+      376514,
+      377395
     ],
     "results": {
-      "Обнаружены читы": 1
+      "Обнаружены читы": 2
     }
   },
   "ExLoader Installer (RkYbnqre_Vafgnyyre.rkr)": {
-    "count": 5,
+    "count": 7,
     "report_ids": [
       376543,
       376600,
       376651,
       376682,
-      376847
+      376847,
+      377327,
+      377395
     ],
     "results": {
-      "Обнаружены читы": 5
+      "Обнаружены читы": 7
     }
   },
   "Exloader": {
@@ -221,17 +270,37 @@
       "Обнаружены читы": 1
     }
   },
+  "Exloader (ergevrirvapernfrq.rkr)": {
+    "count": 1,
+    "report_ids": [
+      377395
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
   "Exloader (exloader)": {
-    "count": 5,
+    "count": 7,
     "report_ids": [
       376514,
       376600,
       376682,
       376767,
-      376847
+      376847,
+      377213,
+      377395
     ],
     "results": {
-      "Обнаружены читы": 5
+      "Обнаружены читы": 7
+    }
+  },
+  "Exloader (exloader.exe)": {
+    "count": 1,
+    "report_ids": [
+      377213
+    ],
+    "results": {
+      "Обнаружены читы": 1
     }
   },
   "Exloader (qbjaybnqfangheny.rkr)": {
@@ -280,9 +349,19 @@
     }
   },
   "Furion Hack (furion cheat cs 1.6)": {
+    "count": 2,
+    "report_ids": [
+      376651,
+      377327
+    ],
+    "results": {
+      "Обнаружены читы": 2
+    }
+  },
+  "Furion Hack (furion hack)": {
     "count": 1,
     "report_ids": [
-      376651
+      377327
     ],
     "results": {
       "Обнаружены читы": 1
@@ -298,22 +377,25 @@
     }
   },
   "HPP DATA (cs16)": {
-    "count": 1,
-    "report_ids": [
-      376682
-    ],
-    "results": {
-      "Обнаружены читы": 1
-    }
-  },
-  "HPP Hack": {
     "count": 2,
     "report_ids": [
-      376207,
-      376217
+      376682,
+      377327
     ],
     "results": {
       "Обнаружены читы": 2
+    }
+  },
+  "HPP Hack": {
+    "count": 4,
+    "report_ids": [
+      376207,
+      376217,
+      377126,
+      377142
+    ],
+    "results": {
+      "Обнаружены читы": 4
     }
   },
   "HPP Hack (loader.exe)": {
@@ -324,6 +406,15 @@
     ],
     "results": {
       "Обнаружены читы": 2
+    }
+  },
+  "HPP Hack (semirage_pIo1337.rar)": {
+    "count": 1,
+    "report_ids": [
+      377327
+    ],
+    "results": {
+      "Обнаружены читы": 1
     }
   },
   "Hack Driver Inject (DEwhmEPvAlnAtruzBSpesgeTV)": {
@@ -363,32 +454,46 @@
     }
   },
   "IMGUI LIBRARY SIGNATURE": {
-    "count": 3,
+    "count": 6,
     "report_ids": [
       376207,
       376217,
-      376735
+      376735,
+      377126,
+      377142,
+      377249
     ],
     "results": {
-      "Обнаружены читы": 3
+      "Обнаружены читы": 6
+    }
+  },
+  "Injected console": {
+    "count": 1,
+    "report_ids": [
+      377028
+    ],
+    "results": {
+      "Обнаружены читы": 1
     }
   },
   "Interium (interium)": {
-    "count": 1,
+    "count": 2,
     "report_ids": [
-      376953
+      376953,
+      377327
     ],
     "results": {
-      "Обнаружены читы": 1
+      "Обнаружены читы": 2
     }
   },
   "Interium hack": {
-    "count": 1,
+    "count": 2,
     "report_ids": [
-      376953
+      376953,
+      377327
     ],
     "results": {
-      "Обнаружены читы": 1
+      "Обнаружены читы": 2
     }
   },
   "Knifebot [#2]": {
@@ -403,12 +508,14 @@
     }
   },
   "LegitHPP": {
-    "count": 1,
+    "count": 3,
     "report_ids": [
-      376207
+      376207,
+      377126,
+      377142
     ],
     "results": {
-      "Обнаружены читы": 1
+      "Обнаружены читы": 3
     }
   },
   "MIDNIGHT HACK (2e5292df2c.exe)": {
@@ -448,39 +555,68 @@
       "Обнаружены читы": 2
     }
   },
+  "MIDNIGHT HACK (qT6TXLfZwP3mbQedxbK0Fh34.exe)": {
+    "count": 1,
+    "report_ids": [
+      377395
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
+  "Memsense Hack (c925af4912f59b96584c33e4c9f75e979e22217cd7cb3fe57d27e8947c0de131.exe)": {
+    "count": 1,
+    "report_ids": [
+      377395
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
   "Midnight Hack": {
-    "count": 6,
+    "count": 7,
     "report_ids": [
       376249,
       376680,
       376682,
       376693,
       376701,
-      376713
+      376713,
+      377395
     ],
     "results": {
-      "Обнаружены читы": 6
+      "Обнаружены читы": 7
     }
   },
   "No smoke": {
-    "count": 3,
+    "count": 12,
     "report_ids": [
       376730,
       376760,
-      376845
+      376845,
+      377041,
+      377061,
+      377065,
+      377095,
+      377108,
+      377118,
+      377133,
+      377144,
+      377156
     ],
     "results": {
-      "Обнаружены читы": 3
+      "Обнаружены читы": 12
     }
   },
   "NorAdrenaline Hack": {
-    "count": 2,
+    "count": 3,
     "report_ids": [
       376514,
-      376521
+      376521,
+      377213
     ],
     "results": {
-      "Обнаружены читы": 2
+      "Обнаружены читы": 3
     }
   },
   "Oxware Hack": {
@@ -535,6 +671,15 @@
     "count": 1,
     "report_ids": [
       376543
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
+  "Renegat1337 WG/ECD Bypass (gs_client.exe)": {
+    "count": 1,
+    "report_ids": [
+      377327
     ],
     "results": {
       "Обнаружены читы": 1
@@ -601,13 +746,15 @@
     }
   },
   "[CS16] [M] opengl32.dll hooked": {
-    "count": 2,
+    "count": 4,
     "report_ids": [
       376217,
-      376514
+      376514,
+      377213,
+      377327
     ],
     "results": {
-      "Обнаружены читы": 2
+      "Обнаружены читы": 4
     }
   }
 }
