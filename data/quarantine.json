@@ -18,15 +18,17 @@
     }
   },
   "1337 Haze External (UnmrRK_Vagreany_BarSvyr.rkr)": {
-    "count": 4,
+    "count": 6,
     "report_ids": [
       380385,
       380432,
       380443,
-      380452
+      380452,
+      380476,
+      380487
     ],
     "results": {
-      "Обнаружены читы": 4
+      "Обнаружены читы": 6
     }
   },
   "1337 Haze External (hazeex.exe)": {
@@ -78,7 +80,7 @@
     }
   },
   "Active cheat injection": {
-    "count": 8,
+    "count": 9,
     "report_ids": [
       376249,
       376651,
@@ -87,10 +89,11 @@
       378939,
       379214,
       380081,
-      380322
+      380322,
+      380753
     ],
     "results": {
-      "Обнаружены читы": 8
+      "Обнаружены читы": 9
     }
   },
   "AimBot [#18]": {
@@ -433,12 +436,13 @@
     }
   },
   "CTShield multihack": {
-    "count": 1,
+    "count": 2,
     "report_ids": [
-      379840
+      379840,
+      380753
     ],
     "results": {
-      "Обнаружены читы": 1
+      "Обнаружены читы": 2
     }
   },
   "Cheat Driver Loader (kdmapper.exe)": {
@@ -612,7 +616,7 @@
     }
   },
   "Evelion Hack (Riryvba.rkr)": {
-    "count": 8,
+    "count": 9,
     "report_ids": [
       376651,
       378125,
@@ -621,14 +625,15 @@
       378181,
       378215,
       378429,
-      379503
+      379503,
+      380953
     ],
     "results": {
-      "Обнаружены читы": 8
+      "Обнаружены читы": 9
     }
   },
   "Evol hack": {
-    "count": 32,
+    "count": 40,
     "report_ids": [
       376514,
       376521,
@@ -661,10 +666,18 @@
       380411,
       380432,
       380443,
-      380452
+      380452,
+      380476,
+      380487,
+      380642,
+      380687,
+      380694,
+      380704,
+      380711,
+      380848
     ],
     "results": {
-      "Обнаружены читы": 32
+      "Обнаружены читы": 40
     }
   },
   "Evol hack (Multihack by eVOL hackvshack.net.zip)": {
@@ -688,7 +701,7 @@
     }
   },
   "ExLoader Cheats (exloader_installer)": {
-    "count": 20,
+    "count": 21,
     "report_ids": [
       376514,
       376600,
@@ -709,16 +722,26 @@
       379931,
       380011,
       380081,
-      380108
+      380108,
+      380711
     ],
     "results": {
-      "Обнаружены читы": 20
+      "Обнаружены читы": 21
     }
   },
   "ExLoader Installer": {
     "count": 1,
     "report_ids": [
       376600
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
+  "ExLoader Installer (ExLoader_Installer (1).exe)": {
+    "count": 1,
+    "report_ids": [
+      380711
     ],
     "results": {
       "Обнаружены читы": 1
@@ -773,7 +796,7 @@
     }
   },
   "ExLoader Installer (RkYbnqre_Vafgnyyre.rkr)": {
-    "count": 24,
+    "count": 25,
     "report_ids": [
       376543,
       376600,
@@ -798,23 +821,25 @@
       379341,
       379931,
       380011,
-      380081
+      380081,
+      380711
     ],
     "results": {
-      "Обнаружены читы": 24
+      "Обнаружены читы": 25
     }
   },
   "Exloader": {
-    "count": 5,
+    "count": 6,
     "report_ids": [
       376600,
       377816,
       378658,
       379341,
-      379931
+      379931,
+      380711
     ],
     "results": {
-      "Обнаружены читы": 5
+      "Обнаружены читы": 6
     }
   },
   "Exloader (ExLoader.lnk)": {
@@ -875,7 +900,7 @@
     }
   },
   "Exloader (exloader)": {
-    "count": 19,
+    "count": 20,
     "report_ids": [
       376514,
       376600,
@@ -895,10 +920,11 @@
       379931,
       380011,
       380081,
-      380108
+      380108,
+      380711
     ],
     "results": {
-      "Обнаружены читы": 19
+      "Обнаружены читы": 20
     }
   },
   "Exloader (exloader.exe)": {
@@ -1019,6 +1045,15 @@
       "Обнаружены читы": 1
     }
   },
+  "Exloader (yhnfpevcgfuvfgbelqbjaybnqrqgura.rkr)": {
+    "count": 1,
+    "report_ids": [
+      380711
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
   "Exloader (zvarpensgeryngrqcnegvpvcngvatfrgfsyntf.rkr)": {
     "count": 1,
     "report_ids": [
@@ -1092,12 +1127,16 @@
     }
   },
   "Furion Hack": {
-    "count": 1,
+    "count": 5,
     "report_ids": [
-      377697
+      377697,
+      380546,
+      380596,
+      380607,
+      380626
     ],
     "results": {
-      "Обнаружены читы": 1
+      "Обнаружены читы": 5
     }
   },
   "Furion Hack (furion cheat cs 1.6)": {
@@ -1202,7 +1241,7 @@
     }
   },
   "HPP Hack": {
-    "count": 12,
+    "count": 19,
     "report_ids": [
       376207,
       376217,
@@ -1215,10 +1254,17 @@
       379816,
       379941,
       379979,
-      379985
+      379985,
+      380526,
+      380546,
+      380579,
+      380596,
+      380607,
+      380626,
+      380640
     ],
     "results": {
-      "Обнаружены читы": 12
+      "Обнаружены читы": 19
     }
   },
   "HPP Hack (AltFixHpp)": {
@@ -1260,13 +1306,20 @@
     }
   },
   "HPP Hack (loader.exe)": {
-    "count": 2,
+    "count": 9,
     "report_ids": [
       376207,
-      376217
+      376217,
+      380526,
+      380546,
+      380579,
+      380596,
+      380607,
+      380626,
+      380640
     ],
     "results": {
-      "Обнаружены читы": 2
+      "Обнаружены читы": 9
     }
   },
   "HPP Hack (semirage_pIo1337.rar)": {
@@ -1345,7 +1398,7 @@
     }
   },
   "IMGUI LIBRARY SIGNATURE": {
-    "count": 15,
+    "count": 22,
     "report_ids": [
       376207,
       376217,
@@ -1361,10 +1414,17 @@
       379811,
       379840,
       380347,
-      380411
+      380411,
+      380526,
+      380546,
+      380579,
+      380596,
+      380607,
+      380626,
+      380640
     ],
     "results": {
-      "Обнаружены читы": 15
+      "Обнаружены читы": 22
     }
   },
   "INTERIUM HACK (XVVaVFVcIDI0MzFmNTFkNGUyOGFhNTA1N2NhMmYxNTdjMWYxYmY4.exe)": {
@@ -1386,17 +1446,19 @@
     }
   },
   "Interium (interium)": {
-    "count": 6,
+    "count": 8,
     "report_ids": [
       376953,
       377327,
       379503,
       379840,
       380331,
-      380347
+      380347,
+      380753,
+      380953
     ],
     "results": {
-      "Обнаружены читы": 6
+      "Обнаружены читы": 8
     }
   },
   "Interium hack": {
@@ -1515,6 +1577,15 @@
       "Обнаружены читы": 1
     }
   },
+  "MIDNIGHT HACK (YBzhtW1O3nvBR15e.exe)": {
+    "count": 1,
+    "report_ids": [
+      380953
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
   "MIDNIGHT HACK (YFDx1LzyHZ0hz8x09wnwcUa9Fe.exe)": {
     "count": 1,
     "report_ids": [
@@ -1579,6 +1650,19 @@
       "Обнаружены читы": 1
     }
   },
+  "Memsense Hack (c4fae09c1a12c7c7313a37d00d8a76cbf030d3a44cd76a62cee9c30c79fdc023.exe)": {
+    "count": 5,
+    "report_ids": [
+      380642,
+      380687,
+      380694,
+      380704,
+      380848
+    ],
+    "results": {
+      "Обнаружены читы": 5
+    }
+  },
   "Memsense Hack (c925af4912f59b96584c33e4c9f75e979e22217cd7cb3fe57d27e8947c0de131.exe)": {
     "count": 1,
     "report_ids": [
@@ -1598,7 +1682,7 @@
     }
   },
   "Midnight Hack": {
-    "count": 15,
+    "count": 16,
     "report_ids": [
       376249,
       376680,
@@ -1614,10 +1698,11 @@
       379859,
       380108,
       380322,
-      380331
+      380331,
+      380953
     ],
     "results": {
-      "Обнаружены читы": 15
+      "Обнаружены читы": 16
     }
   },
   "Mouse NoSpread Macro WEBSITE (demand_0.5.zip)": {
@@ -1633,6 +1718,15 @@
     "count": 1,
     "report_ids": [
       378276
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
+  "Multihack/protector": {
+    "count": 1,
+    "report_ids": [
+      380623
     ],
     "results": {
       "Обнаружены читы": 1
@@ -1703,7 +1797,7 @@
     }
   },
   "NorAdrenaline Hack": {
-    "count": 11,
+    "count": 18,
     "report_ids": [
       376514,
       376521,
@@ -1715,10 +1809,17 @@
       380373,
       380385,
       380432,
-      380452
+      380452,
+      380476,
+      380487,
+      380642,
+      380687,
+      380694,
+      380704,
+      380848
     ],
     "results": {
-      "Обнаружены читы": 11
+      "Обнаружены читы": 18
     }
   },
   "OSTROG STEAM SPOOFER": {
@@ -1733,15 +1834,16 @@
     }
   },
   "Opengl32 [#1]": {
-    "count": 4,
+    "count": 5,
     "report_ids": [
       377968,
       379286,
       379685,
-      380160
+      380160,
+      380560
     ],
     "results": {
-      "Обнаружены читы": 4
+      "Обнаружены читы": 5
     }
   },
   "Opengl32 multihack": {
@@ -1754,16 +1856,17 @@
     }
   },
   "Opengl32.dll multihack": {
-    "count": 5,
+    "count": 6,
     "report_ids": [
       377863,
       377968,
       379286,
       379685,
-      380160
+      380160,
+      380560
     ],
     "results": {
-      "Обнаружены читы": 5
+      "Обнаружены читы": 6
     }
   },
   "Oxware Hack": {
@@ -1856,21 +1959,32 @@
     }
   },
   "Rapid Hack": {
+    "count": 2,
+    "report_ids": [
+      376543,
+      380512
+    ],
+    "results": {
+      "Обнаружены читы": 2
+    }
+  },
+  "Rapid Hack [#9]": {
     "count": 1,
     "report_ids": [
-      376543
+      380512
     ],
     "results": {
       "Обнаружены читы": 1
     }
   },
   "Rapid hack": {
-    "count": 1,
+    "count": 2,
     "report_ids": [
-      376543
+      376543,
+      380512
     ],
     "results": {
-      "Обнаружены читы": 1
+      "Обнаружены читы": 2
     }
   },
   "Renegat1337 WG/ECD Bypass (fgrnz_yrtnpl.rkr)": {
@@ -1913,7 +2027,7 @@
     }
   },
   "Sakura hack 2024": {
-    "count": 7,
+    "count": 14,
     "report_ids": [
       376521,
       380368,
@@ -1921,10 +2035,17 @@
       380385,
       380432,
       380443,
-      380452
+      380452,
+      380476,
+      380487,
+      380642,
+      380687,
+      380694,
+      380704,
+      380848
     ],
     "results": {
-      "Обнаружены читы": 7
+      "Обнаружены читы": 14
     }
   },
   "Scroll filter": {
@@ -2066,13 +2187,20 @@
     }
   },
   "UNKNOWNCHEATS WEBSITE (vermilion and setts_[unknowncheats.me]_.zip)": {
-    "count": 2,
+    "count": 9,
     "report_ids": [
       376207,
-      376217
+      376217,
+      380526,
+      380546,
+      380579,
+      380596,
+      380607,
+      380626,
+      380640
     ],
     "results": {
-      "Обнаружены читы": 2
+      "Обнаружены читы": 9
     }
   },
   "UNKNOWNCHEATS WEBSITE (vibeheke.dll, fixedsys_[unknowncheats.me]_.zip)": {
@@ -2183,7 +2311,7 @@
     }
   },
   "[CS16] [M] opengl32.dll hooked": {
-    "count": 22,
+    "count": 24,
     "report_ids": [
       376217,
       376514,
@@ -2206,10 +2334,12 @@
       379941,
       380011,
       380160,
-      380377
+      380377,
+      380560,
+      380711
     ],
     "results": {
-      "Обнаружены читы": 22
+      "Обнаружены читы": 24
     }
   },
   "[CS16] tobys dk cheats ([tcheats.com]EnhancedAim_Cracked_CS1.6.rar)": {
