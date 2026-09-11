@@ -130,6 +130,15 @@
       "Обнаружены читы": 22
     }
   },
+  "Adi2071 Cheat": {
+    "count": 1,
+    "report_ids": [
+      384755
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
   "AimBot [#18]": {
     "count": 2,
     "report_ids": [
@@ -141,12 +150,13 @@
     }
   },
   "AimBot [#18] (aim.dll)": {
-    "count": 1,
+    "count": 2,
     "report_ids": [
-      377599
+      377599,
+      384755
     ],
     "results": {
-      "Обнаружены читы": 1
+      "Обнаружены читы": 2
     }
   },
   "AimBot [#3]": {
@@ -198,7 +208,7 @@
     }
   },
   "Alternative Hack": {
-    "count": 34,
+    "count": 36,
     "report_ids": [
       376671,
       376735,
@@ -233,10 +243,12 @@
       382274,
       382966,
       383916,
-      384077
+      384077,
+      384458,
+      384727
     ],
     "results": {
-      "Обнаружены читы": 34
+      "Обнаружены читы": 36
     }
   },
   "Alternative Hack (05fd901337.exe)": {
@@ -277,7 +289,7 @@
     }
   },
   "Alternative Hack (alternative hack)": {
-    "count": 38,
+    "count": 41,
     "report_ids": [
       376665,
       376735,
@@ -316,10 +328,13 @@
       382983,
       383511,
       383916,
-      384077
+      384077,
+      384458,
+      384819,
+      384830
     ],
     "results": {
-      "Обнаружены читы": 38
+      "Обнаружены читы": 41
     }
   },
   "Alternative Hack (cvtcsihxehdlg)": {
@@ -382,6 +397,15 @@
       "Обнаружены читы": 1
     }
   },
+  "Alternative Hack (qwtushhbendue)": {
+    "count": 1,
+    "report_ids": [
+      384874
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
   "Alternative Hack (qythsihneydit)": {
     "count": 1,
     "report_ids": [
@@ -419,7 +443,7 @@
     }
   },
   "Alternative Hack Traces": {
-    "count": 16,
+    "count": 17,
     "report_ids": [
       379763,
       379826,
@@ -436,10 +460,11 @@
       383836,
       384228,
       384301,
-      384324
+      384324,
+      384874
     ],
     "results": {
-      "Обнаружены читы": 16
+      "Обнаружены читы": 17
     }
   },
   "Alternative Hack.exe (NygreAngvir.uy.rkr)": {
@@ -467,12 +492,15 @@
     }
   },
   "Alternative Hack.exe (alternative.hl.exe)": {
-    "count": 1,
+    "count": 4,
     "report_ids": [
-      378896
+      378896,
+      384819,
+      384830,
+      384838
     ],
     "results": {
-      "Обнаружены читы": 1
+      "Обнаружены читы": 4
     }
   },
   "BIOS BASE HACK (bi0sBase-Lite.exe)": {
@@ -651,12 +679,13 @@
     }
   },
   "Cheats for CS 1.6 (cs16-softf.exe)": {
-    "count": 1,
+    "count": 2,
     "report_ids": [
-      377863
+      377863,
+      384661
     ],
     "results": {
-      "Обнаружены читы": 1
+      "Обнаружены читы": 2
     }
   },
   "Crianosfera (crianosfera-5-external.exe)": {
@@ -800,12 +829,8 @@
     }
   },
   "Evol hack": {
-    "count": 60,
+    "count": 64,
     "report_ids": [
-      378517,
-      378524,
-      378544,
-      378567,
       378629,
       378658,
       378661,
@@ -851,10 +876,14 @@
       383609,
       383645,
       383916,
-      384077
+      384077,
+      384458,
+      384726,
+      384727,
+      384731
     ],
     "results": {
-      "Обнаружены читы": 60
+      "Обнаружены читы": 64
     }
   },
   "Evol hack (Multihack by eVOL hackvshack.net.zip)": {
@@ -878,13 +907,15 @@
     }
   },
   "Evol hack (ybnqre.rkr)": {
-    "count": 2,
+    "count": 4,
     "report_ids": [
       381544,
-      383645
+      383645,
+      384726,
+      384731
     ],
     "results": {
-      "Обнаружены читы": 2
+      "Обнаружены читы": 4
     }
   },
   "ExLoader Cheats": {
@@ -897,7 +928,7 @@
     }
   },
   "ExLoader Cheats (exloader_installer)": {
-    "count": 35,
+    "count": 38,
     "report_ids": [
       376514,
       376600,
@@ -933,10 +964,13 @@
       383587,
       383645,
       384406,
-      384424
+      384424,
+      384726,
+      384731,
+      384755
     ],
     "results": {
-      "Обнаружены читы": 35
+      "Обнаружены читы": 38
     }
   },
   "ExLoader Installer": {
@@ -1024,7 +1058,7 @@
     }
   },
   "ExLoader Installer (RkYbnqre_Vafgnyyre.rkr)": {
-    "count": 37,
+    "count": 39,
     "report_ids": [
       376543,
       376600,
@@ -1062,10 +1096,12 @@
       383308,
       383343,
       383587,
-      384406
+      384406,
+      384755,
+      384829
     ],
     "results": {
-      "Обнаружены читы": 37
+      "Обнаружены читы": 39
     }
   },
   "Exloader": {
@@ -1095,15 +1131,17 @@
     }
   },
   "Exloader (RkYbnqre.rkr)": {
-    "count": 4,
+    "count": 6,
     "report_ids": [
       376514,
       379931,
       383587,
-      383645
+      383645,
+      384726,
+      384731
     ],
     "results": {
-      "Обнаружены читы": 4
+      "Обнаружены читы": 6
     }
   },
   "Exloader (Rkg._KBAR_Serr_1769163956.rkr)": {
@@ -1116,14 +1154,15 @@
     }
   },
   "Exloader (bhgqngrqyhnfpevcgf.rkr)": {
-    "count": 3,
+    "count": 4,
     "report_ids": [
       376847,
       377543,
-      377599
+      377599,
+      384755
     ],
     "results": {
-      "Обнаружены читы": 3
+      "Обнаружены читы": 4
     }
   },
   "Exloader (browserimprove.exe)": {
@@ -1172,7 +1211,7 @@
     }
   },
   "Exloader (exloader)": {
-    "count": 36,
+    "count": 39,
     "report_ids": [
       376514,
       376600,
@@ -1209,10 +1248,13 @@
       383587,
       383645,
       384406,
-      384424
+      384424,
+      384726,
+      384731,
+      384755
     ],
     "results": {
-      "Обнаружены читы": 36
+      "Обнаружены читы": 39
     }
   },
   "Exloader (exloader.exe)": {
@@ -1398,6 +1440,15 @@
       "Обнаружены читы": 1
     }
   },
+  "Exloader (vaperqvoylgnxra.rkr)": {
+    "count": 1,
+    "report_ids": [
+      384829
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
   "Exloader (vcredist_2013_x64.exe)": {
     "count": 1,
     "report_ids": [
@@ -1499,14 +1550,15 @@
     }
   },
   "Full Control": {
-    "count": 3,
+    "count": 4,
     "report_ids": [
       377571,
       379991,
-      383569
+      383569,
+      384780
     ],
     "results": {
-      "Обнаружены читы": 3
+      "Обнаружены читы": 4
     }
   },
   "Full Control (demoplayer.dll)": {
@@ -1557,13 +1609,14 @@
     }
   },
   "Furion Hack (furion hack)": {
-    "count": 2,
+    "count": 3,
     "report_ids": [
       377327,
-      382731
+      382731,
+      384819
     ],
     "results": {
-      "Обнаружены читы": 2
+      "Обнаружены читы": 3
     }
   },
   "HACKVSHACK (DemoPlayer hackvshack.net.zip)": {
@@ -1594,6 +1647,16 @@
     ],
     "results": {
       "Обнаружены читы": 3
+    }
+  },
+  "HACKVSHACK (Multihack by eVOL hackvshack.net.zip)": {
+    "count": 2,
+    "report_ids": [
+      384726,
+      384731
+    ],
+    "results": {
+      "Обнаружены читы": 2
     }
   },
   "HACKVSHACK (ThOrCS.cc hackvshack.net.zip)": {
@@ -1645,7 +1708,7 @@
     }
   },
   "HPP DATA (cs16)": {
-    "count": 26,
+    "count": 27,
     "report_ids": [
       376682,
       377327,
@@ -1672,10 +1735,11 @@
       382577,
       382641,
       382731,
-      384009
+      384009,
+      384819
     ],
     "results": {
-      "Обнаружены читы": 26
+      "Обнаружены читы": 27
     }
   },
   "HPP HACK": {
@@ -1737,14 +1801,15 @@
     }
   },
   "HPP Hack (AltFixHpp)": {
-    "count": 3,
+    "count": 4,
     "report_ids": [
       378106,
       378896,
-      380347
+      380347,
+      384955
     ],
     "results": {
-      "Обнаружены читы": 3
+      "Обнаружены читы": 4
     }
   },
   "HPP Hack (altfixreload)": {
@@ -1944,7 +2009,7 @@
     }
   },
   "IMGUI LIBRARY SIGNATURE": {
-    "count": 45,
+    "count": 47,
     "report_ids": [
       376207,
       376217,
@@ -1990,10 +2055,12 @@
       384044,
       384060,
       384075,
-      384077
+      384077,
+      384458,
+      384829
     ],
     "results": {
-      "Обнаружены читы": 45
+      "Обнаружены читы": 47
     }
   },
   "INTERIUM HACK (XVVaVFVcIDI0MzFmNTFkNGUyOGFhNTA1N2NhMmYxNTdjMWYxYmY4.exe)": {
@@ -2435,7 +2502,7 @@
     }
   },
   "No smoke": {
-    "count": 44,
+    "count": 47,
     "report_ids": [
       376730,
       376760,
@@ -2480,14 +2547,17 @@
       384096,
       384315,
       384341,
-      384355
+      384355,
+      384819,
+      384830,
+      384838
     ],
     "results": {
-      "Обнаружены читы": 44
+      "Обнаружены читы": 47
     }
   },
   "NorAdrenaline Hack": {
-    "count": 31,
+    "count": 33,
     "report_ids": [
       376514,
       376521,
@@ -2519,23 +2589,26 @@
       383308,
       383587,
       383645,
-      384406
+      384406,
+      384726,
+      384731
     ],
     "results": {
-      "Обнаружены читы": 31
+      "Обнаружены читы": 33
     }
   },
   "OSTROG STEAM SPOOFER": {
-    "count": 5,
+    "count": 6,
     "report_ids": [
       377955,
       377984,
       380392,
       381544,
-      382983
+      382983,
+      384955
     ],
     "results": {
-      "Обнаружены читы": 5
+      "Обнаружены читы": 6
     }
   },
   "Opengl32 [#1]": {
@@ -2601,17 +2674,19 @@
     }
   },
   "Oxware Hack (bkjner.rkr)": {
-    "count": 6,
+    "count": 8,
     "report_ids": [
       376543,
       376847,
       377543,
       377599,
       377863,
-      378859
+      378859,
+      384755,
+      384829
     ],
     "results": {
-      "Обнаружены читы": 6
+      "Обнаружены читы": 8
     }
   },
   "Oxware Hack (oxware)": {
@@ -2696,6 +2771,24 @@
     "count": 1,
     "report_ids": [
       383609
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
+  "Python Hack": {
+    "count": 1,
+    "report_ids": [
+      384526
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
+  "Python Hack (google chrome.exe)": {
+    "count": 1,
+    "report_ids": [
+      384526
     ],
     "results": {
       "Обнаружены читы": 1
@@ -2794,16 +2887,17 @@
     }
   },
   "Robin hack": {
-    "count": 5,
+    "count": 6,
     "report_ids": [
       376283,
       376289,
       376665,
       378859,
-      381785
+      381785,
+      384755
     ],
     "results": {
-      "Обнаружены читы": 5
+      "Обнаружены читы": 6
     }
   },
   "Sakura hack 2024": {
@@ -3055,7 +3149,7 @@
     }
   },
   "WOPOX WALLHACK": {
-    "count": 7,
+    "count": 8,
     "report_ids": [
       377796,
       378125,
@@ -3063,10 +3157,11 @@
       378154,
       378181,
       378215,
-      378225
+      378225,
+      384661
     ],
     "results": {
-      "Обнаружены читы": 7
+      "Обнаружены читы": 8
     }
   },
   "WOPOX WALLHACK (Havafgnyy.rkr)": {
@@ -3085,23 +3180,25 @@
     }
   },
   "WOPOX WALLHACK (JnyyUnpx ol jbcbk.rkr)": {
-    "count": 3,
+    "count": 4,
     "report_ids": [
       377796,
       378225,
-      378678
+      378678,
+      384661
     ],
     "results": {
-      "Обнаружены читы": 3
+      "Обнаружены читы": 4
     }
   },
   "WOPOX WALLHACK (wallhack by wopox.exe)": {
-    "count": 1,
+    "count": 2,
     "report_ids": [
-      379341
+      379341,
+      384955
     ],
     "results": {
-      "Обнаружены читы": 1
+      "Обнаружены читы": 2
     }
   },
   "WOPOX WH (wallhack by wopox.exe)": {
@@ -3160,7 +3257,7 @@
     }
   },
   "[CS16] [M] opengl32.dll hooked": {
-    "count": 40,
+    "count": 42,
     "report_ids": [
       376217,
       376514,
@@ -3201,10 +3298,12 @@
       384032,
       384044,
       384060,
-      384406
+      384406,
+      384726,
+      384731
     ],
     "results": {
-      "Обнаружены читы": 40
+      "Обнаружены читы": 42
     }
   },
   "[CS16] tobys dk cheats ([tcheats.com]EnhancedAim_Cracked_CS1.6.rar)": {
@@ -3225,6 +3324,16 @@
     ],
     "results": {
       "Обнаружены читы": 3
+    }
+  },
+  "[CS16] tobys dk cheats ([tcheats.com]Super_Simple_Wallhack_v7.3.rar)": {
+    "count": 2,
+    "report_ids": [
+      384726,
+      384731
+    ],
+    "results": {
+      "Обнаружены читы": 2
     }
   },
   "[CS16] tobys dk cheats ([tobys.dk]R-Aimbot_v1.0 (2).rar)": {
