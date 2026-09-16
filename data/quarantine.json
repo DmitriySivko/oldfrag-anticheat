@@ -92,17 +92,18 @@
     }
   },
   "AIMbotix": {
-    "count": 2,
+    "count": 3,
     "report_ids": [
       378832,
-      382961
+      382961,
+      387059
     ],
     "results": {
-      "Обнаружены читы": 2
+      "Обнаружены читы": 3
     }
   },
   "Active cheat injection": {
-    "count": 28,
+    "count": 29,
     "report_ids": [
       376249,
       376651,
@@ -131,16 +132,26 @@
       386485,
       386562,
       386728,
-      386749
+      386749,
+      387445
     ],
     "results": {
-      "Обнаружены читы": 28
+      "Обнаружены читы": 29
     }
   },
   "Adi2071 Cheat": {
     "count": 1,
     "report_ids": [
       384755
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
+  "Aim Hack [#20]": {
+    "count": 1,
+    "report_ids": [
+      387452
     ],
     "results": {
       "Обнаружены читы": 1
@@ -226,7 +237,7 @@
     }
   },
   "Alternative Hack": {
-    "count": 41,
+    "count": 42,
     "report_ids": [
       376671,
       376735,
@@ -268,10 +279,11 @@
       385611,
       386501,
       386527,
-      386587
+      386587,
+      386968
     ],
     "results": {
-      "Обнаружены читы": 41
+      "Обнаружены читы": 42
     }
   },
   "Alternative Hack (05fd901337.exe)": {
@@ -312,11 +324,8 @@
     }
   },
   "Alternative Hack (alternative hack)": {
-    "count": 57,
+    "count": 60,
     "report_ids": [
-      378181,
-      378215,
-      378337,
       378429,
       378896,
       379058,
@@ -363,10 +372,13 @@
       385611,
       386527,
       386587,
-      386945
+      386945,
+      386968,
+      387445,
+      387452
     ],
     "results": {
-      "Обнаружены читы": 57
+      "Обнаружены читы": 60
     }
   },
   "Alternative Hack (cvtcsihxehdlg)": {
@@ -531,7 +543,7 @@
     }
   },
   "Alternative Hack.exe (NygreAngvir.uy.rkr)": {
-    "count": 29,
+    "count": 31,
     "report_ids": [
       376665,
       377327,
@@ -561,10 +573,12 @@
       385417,
       385423,
       386527,
-      386945
+      386945,
+      387445,
+      387452
     ],
     "results": {
-      "Обнаружены читы": 29
+      "Обнаружены читы": 31
     }
   },
   "Alternative Hack.exe (alternative.hl.exe)": {
@@ -722,12 +736,14 @@
     }
   },
   "Cheat Driver Loader (Xqznccre.rkr)": {
-    "count": 1,
+    "count": 3,
     "report_ids": [
-      386527
+      386527,
+      387445,
+      387452
     ],
     "results": {
-      "Обнаружены читы": 1
+      "Обнаружены читы": 3
     }
   },
   "Cheat Driver Loader (kdmapper.exe)": {
@@ -946,10 +962,8 @@
     }
   },
   "Evol hack": {
-    "count": 70,
+    "count": 72,
     "report_ids": [
-      379058,
-      379341,
       379453,
       379811,
       380011,
@@ -997,10 +1011,12 @@
       386260,
       386413,
       386455,
-      386793
+      386793,
+      387000,
+      387250
     ],
     "results": {
-      "Обнаружены читы": 70
+      "Обнаружены читы": 72
     }
   },
   "Evol hack (Multihack by eVOL hackvshack.net.zip)": {
@@ -1046,12 +1062,8 @@
     }
   },
   "ExLoader Cheats (exloader_installer)": {
-    "count": 61,
+    "count": 65,
     "report_ids": [
-      377816,
-      378658,
-      379054,
-      379214,
       379341,
       379931,
       380011,
@@ -1097,10 +1109,14 @@
       386586,
       386587,
       386773,
-      386795
+      386795,
+      386968,
+      387000,
+      387065,
+      387250
     ],
     "results": {
-      "Обнаружены читы": 61
+      "Обнаружены читы": 65
     }
   },
   "ExLoader Installer": {
@@ -1162,7 +1178,7 @@
     }
   },
   "ExLoader Installer (ExLoader_Installer.exe)": {
-    "count": 12,
+    "count": 14,
     "report_ids": [
       376514,
       377395,
@@ -1175,14 +1191,16 @@
       379931,
       381756,
       383308,
-      384424
+      384424,
+      387000,
+      387250
     ],
     "results": {
-      "Обнаружены читы": 12
+      "Обнаружены читы": 14
     }
   },
   "ExLoader Installer (ExLoader_Installer.zip)": {
-    "count": 18,
+    "count": 19,
     "report_ids": [
       379054,
       379214,
@@ -1201,19 +1219,16 @@
       386586,
       386587,
       386773,
-      386795
+      386795,
+      387065
     ],
     "results": {
-      "Обнаружены читы": 18
+      "Обнаружены читы": 19
     }
   },
   "ExLoader Installer (RkYbnqre_Vafgnyyre.rkr)": {
-    "count": 62,
+    "count": 66,
     "report_ids": [
-      378140,
-      378154,
-      378181,
-      378215,
       378225,
       378429,
       378658,
@@ -1259,14 +1274,18 @@
       386586,
       386587,
       386773,
-      386795
+      386795,
+      386968,
+      387000,
+      387065,
+      387250
     ],
     "results": {
-      "Обнаружены читы": 62
+      "Обнаружены читы": 66
     }
   },
   "Exloader": {
-    "count": 17,
+    "count": 19,
     "report_ids": [
       376600,
       377816,
@@ -1284,10 +1303,12 @@
       386455,
       386586,
       386773,
-      386795
+      386795,
+      387065,
+      387250
     ],
     "results": {
-      "Обнаружены читы": 17
+      "Обнаружены читы": 19
     }
   },
   "Exloader (ExLoader.lnk)": {
@@ -1413,12 +1434,8 @@
     }
   },
   "Exloader (exloader)": {
-    "count": 62,
+    "count": 66,
     "report_ids": [
-      379054,
-      379214,
-      379341,
-      379931,
       380011,
       380081,
       380108,
@@ -1464,10 +1481,14 @@
       386586,
       386587,
       386773,
-      386795
+      386795,
+      386968,
+      387000,
+      387065,
+      387250
     ],
     "results": {
-      "Обнаружены читы": 62
+      "Обнаружены читы": 66
     }
   },
   "Exloader (exloader-capslock.exe)": {
@@ -1611,6 +1632,15 @@
       "Обнаружены читы": 1
     }
   },
+  "Exloader (ovttreoybpxvat.rkr)": {
+    "count": 1,
+    "report_ids": [
+      386968
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
   "Exloader (pbagebytvghpltbcgvpny.rkr)": {
     "count": 1,
     "report_ids": [
@@ -1642,6 +1672,15 @@
     "count": 1,
     "report_ids": [
       376651
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
+  "Exloader (qrifbppnfvbaf.rkr)": {
+    "count": 1,
+    "report_ids": [
+      387000
     ],
     "results": {
       "Обнаружены читы": 1
@@ -1684,10 +1723,28 @@
       "Обнаружены читы": 1
     }
   },
+  "Exloader (svkrferfrg.rkr)": {
+    "count": 1,
+    "report_ids": [
+      387065
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
   "Exloader (triespossiblehelptrajectories.exe)": {
     "count": 1,
     "report_ids": [
       384424
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
+  "Exloader (vafgrnqqrsnhygwhyl.rkr)": {
+    "count": 1,
+    "report_ids": [
+      387250
     ],
     "results": {
       "Обнаружены читы": 1
@@ -1916,6 +1973,15 @@
     ],
     "results": {
       "Обнаружены читы": 2
+    }
+  },
+  "HACKVSHACK (Dopamine hackvshack.net.zip)": {
+    "count": 1,
+    "report_ids": [
+      387000
+    ],
+    "results": {
+      "Обнаружены читы": 1
     }
   },
   "HACKVSHACK (Extreme Injector hackvshack.net.zip)": {
@@ -2148,7 +2214,7 @@
     }
   },
   "HPP Hack (hpp hack)": {
-    "count": 7,
+    "count": 8,
     "report_ids": [
       378678,
       382731,
@@ -2156,10 +2222,11 @@
       385230,
       385460,
       386773,
-      386945
+      386945,
+      387000
     ],
     "results": {
-      "Обнаружены читы": 7
+      "Обнаружены читы": 8
     }
   },
   "HPP Hack (loader.exe)": {
@@ -2225,7 +2292,7 @@
     }
   },
   "Hack Cracked by Blick": {
-    "count": 7,
+    "count": 11,
     "report_ids": [
       379809,
       379816,
@@ -2233,10 +2300,14 @@
       384009,
       384994,
       386443,
-      386843
+      386843,
+      387169,
+      387314,
+      387358,
+      387404
     ],
     "results": {
-      "Обнаружены читы": 7
+      "Обнаружены читы": 11
     }
   },
   "Hack Driver Inject (DEwhmEPvAlnAtruzBSpesgeTV)": {
@@ -2863,20 +2934,18 @@
     }
   },
   "No recoil hack (no recoil hack.@cs_error404.exe)": {
-    "count": 1,
+    "count": 2,
     "report_ids": [
-      382961
+      382961,
+      387059
     ],
     "results": {
-      "Обнаружены читы": 1
+      "Обнаружены читы": 2
     }
   },
   "No smoke": {
-    "count": 69,
+    "count": 72,
     "report_ids": [
-      378490,
-      378511,
-      378525,
       379118,
       379127,
       380966,
@@ -2923,14 +2992,17 @@
       386578,
       386586,
       386926,
-      386931
+      386931,
+      387035,
+      387040,
+      387436
     ],
     "results": {
-      "Обнаружены читы": 69
+      "Обнаружены читы": 72
     }
   },
   "NorAdrenaline Hack": {
-    "count": 36,
+    "count": 38,
     "report_ids": [
       376514,
       376521,
@@ -2967,10 +3039,12 @@
       384731,
       386031,
       386455,
-      386793
+      386793,
+      387000,
+      387250
     ],
     "results": {
-      "Обнаружены читы": 36
+      "Обнаружены читы": 38
     }
   },
   "OSTROG STEAM SPOOFER": {
@@ -2989,7 +3063,7 @@
     }
   },
   "Opengl32 [#1]": {
-    "count": 14,
+    "count": 15,
     "report_ids": [
       377968,
       379286,
@@ -3004,19 +3078,21 @@
       383841,
       386018,
       386426,
-      386926
+      386926,
+      387035
     ],
     "results": {
-      "Обнаружены читы": 14
+      "Обнаружены читы": 15
     }
   },
   "Opengl32 [#1] (opengl32.dll)": {
-    "count": 1,
+    "count": 2,
     "report_ids": [
-      386931
+      386931,
+      387040
     ],
     "results": {
-      "Обнаружены читы": 1
+      "Обнаружены читы": 2
     }
   },
   "Opengl32 multihack": {
@@ -3034,7 +3110,7 @@
     }
   },
   "Opengl32.dll multihack": {
-    "count": 18,
+    "count": 19,
     "report_ids": [
       377863,
       377968,
@@ -3053,10 +3129,11 @@
       385230,
       386018,
       386814,
-      386926
+      386926,
+      387035
     ],
     "results": {
-      "Обнаружены читы": 18
+      "Обнаружены читы": 19
     }
   },
   "Oxware Hack": {
@@ -3086,7 +3163,7 @@
     }
   },
   "Oxware Hack (oxware)": {
-    "count": 17,
+    "count": 20,
     "report_ids": [
       376651,
       377796,
@@ -3104,14 +3181,17 @@
       385230,
       385392,
       386773,
-      386795
+      386795,
+      387000,
+      387065,
+      387250
     ],
     "results": {
-      "Обнаружены читы": 17
+      "Обнаружены читы": 20
     }
   },
   "Oxware Hack (oxware.exe)": {
-    "count": 41,
+    "count": 45,
     "report_ids": [
       376651,
       376767,
@@ -3153,10 +3233,14 @@
       386578,
       386586,
       386773,
-      386795
+      386795,
+      387000,
+      387059,
+      387065,
+      387250
     ],
     "results": {
-      "Обнаружены читы": 41
+      "Обнаружены читы": 45
     }
   },
   "Oxware hack": {
@@ -3401,6 +3485,16 @@
       "Обнаружены читы": 3
     }
   },
+  "UNKNOWNCHEATS HACK (Alternative + settings_[unknowncheats.me]_)": {
+    "count": 2,
+    "report_ids": [
+      387445,
+      387452
+    ],
+    "results": {
+      "Обнаружены читы": 2
+    }
+  },
   "UNKNOWNCHEATS HACK (steamid spoofer_[unknowncheats.me]_.exe)": {
     "count": 6,
     "report_ids": [
@@ -3424,6 +3518,15 @@
     ],
     "results": {
       "Обнаружены читы": 3
+    }
+  },
+  "UNKNOWNCHEATS WEBSITE (Combat_Master_Internal_1.2_unknowncheats.me_.dll)": {
+    "count": 1,
+    "report_ids": [
+      387065
+    ],
+    "results": {
+      "Обнаружены читы": 1
     }
   },
   "UNKNOWNCHEATS WEBSITE (FgrnzVQ Fcbbsre_[haxabjapurngf.zr]_ (1).rkr)": {
@@ -3499,6 +3602,15 @@
       "Обнаружены читы": 3
     }
   },
+  "UNKNOWNCHEATS WEBSITE (WINMM_[unknowncheats.me]_.dll)": {
+    "count": 1,
+    "report_ids": [
+      386968
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
   "UNKNOWNCHEATS WEBSITE (Zeroware 1_[unknowncheats.me]_.zip)": {
     "count": 1,
     "report_ids": [
@@ -3526,6 +3638,16 @@
     ],
     "results": {
       "Обнаружены читы": 3
+    }
+  },
+  "UNKNOWNCHEATS WEBSITE (ivor.uy.rkr)": {
+    "count": 2,
+    "report_ids": [
+      387445,
+      387452
+    ],
+    "results": {
+      "Обнаружены читы": 2
     }
   },
   "UNKNOWNCHEATS WEBSITE (python-3.11.0-amd64.exe)": {
@@ -3723,7 +3845,7 @@
     }
   },
   "XGuard Cheat Protector": {
-    "count": 7,
+    "count": 9,
     "report_ids": [
       381614,
       382520,
@@ -3731,24 +3853,28 @@
       382530,
       382577,
       382641,
-      386443
+      386443,
+      387314,
+      387330
     ],
     "results": {
-      "Обнаружены читы": 7
+      "Обнаружены читы": 9
     }
   },
   "Zemon hack": {
-    "count": 6,
+    "count": 8,
     "report_ids": [
       379214,
       381495,
       382489,
       385460,
       386485,
-      386562
+      386562,
+      387445,
+      387452
     ],
     "results": {
-      "Обнаружены читы": 6
+      "Обнаружены читы": 8
     }
   },
   "[CS1.6] Hash Hack (opengl32.exe)": {
@@ -3772,14 +3898,8 @@
     }
   },
   "[CS16] [M] opengl32.dll hooked": {
-    "count": 53,
+    "count": 59,
     "report_ids": [
-      377327,
-      377796,
-      377816,
-      377863,
-      377955,
-      377968,
       378225,
       378429,
       378658,
@@ -3823,10 +3943,16 @@
       386793,
       386814,
       386843,
-      386926
+      386926,
+      387000,
+      387035,
+      387169,
+      387314,
+      387358,
+      387404
     ],
     "results": {
-      "Обнаружены читы": 53
+      "Обнаружены читы": 59
     }
   },
   "[CS16] tobys dk cheats ([tcheats.com]EnhancedAim_Cracked_CS1.6.rar)": {
