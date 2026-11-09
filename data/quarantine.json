@@ -431,9 +431,8 @@
     }
   },
   "Alternative Hack": {
-    "count": 103,
+    "count": 104,
     "report_ids": [
-      391868,
       391871,
       392000,
       392133,
@@ -482,10 +481,11 @@
       407038,
       409315,
       409412,
-      410475
+      410475,
+      410978
     ],
     "results": {
-      "Обнаружены читы": 103
+      "Обнаружены читы": 104
     }
   },
   "Alternative Hack (05fd901337.exe)": {
@@ -580,9 +580,8 @@
     }
   },
   "Alternative Hack (alternative hack)": {
-    "count": 144,
+    "count": 145,
     "report_ids": [
-      394278,
       394285,
       394293,
       394400,
@@ -631,10 +630,11 @@
       410475,
       410759,
       410762,
-      410801
+      410801,
+      410978
     ],
     "results": {
-      "Обнаружены читы": 144
+      "Обнаружены читы": 145
     }
   },
   "Alternative Hack (amtrswhjemdpp)": {
@@ -989,11 +989,8 @@
     }
   },
   "Alternative Hack Traces": {
-    "count": 71,
+    "count": 74,
     "report_ids": [
-      387683,
-      387685,
-      389200,
       389389,
       389485,
       389863,
@@ -1040,10 +1037,13 @@
       408131,
       409032,
       409469,
-      410428
+      410428,
+      411066,
+      411096,
+      411398
     ],
     "results": {
-      "Обнаружены читы": 71
+      "Обнаружены читы": 74
     }
   },
   "Alternative Hack.exe": {
@@ -1949,9 +1949,8 @@
     }
   },
   "Evol hack": {
-    "count": 168,
+    "count": 169,
     "report_ids": [
-      397317,
       397412,
       397484,
       398129,
@@ -2000,10 +1999,11 @@
       410759,
       410762,
       410801,
-      410841
+      410841,
+      410978
     ],
     "results": {
-      "Обнаружены читы": 168
+      "Обнаружены читы": 169
     }
   },
   "Evol hack (Multihack by eVOL hackvshack.net.zip)": {
@@ -4790,6 +4790,15 @@
       "Обнаружены читы": 1
     }
   },
+  "Hack Driver Inject (mDFTWrcKJQhZDNDs)": {
+    "count": 1,
+    "report_ids": [
+      411327
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
   "Hack Driver Inject (mkVKzpzjFlZexUfpSHb)": {
     "count": 1,
     "report_ids": [
@@ -4853,6 +4862,15 @@
       "Обнаружены читы": 1
     }
   },
+  "Hack Driver Inject (svyNuBObJzHGThbXbyAyyJpa)": {
+    "count": 1,
+    "report_ids": [
+      411327
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
   "Hack Driver Inject (ufcKbnkKwkn)": {
     "count": 1,
     "report_ids": [
@@ -4880,6 +4898,15 @@
       "Обнаружены читы": 1
     }
   },
+  "Hack Driver Inject (uuslbwCuULilVYMuVxBG)": {
+    "count": 1,
+    "report_ids": [
+      411327
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
   "Hack Driver Inject (xMsGOcnwbvfXNtMxLaUsdeCvpxI)": {
     "count": 1,
     "report_ids": [
@@ -4893,6 +4920,15 @@
     "count": 1,
     "report_ids": [
       396948
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
+  "Hack Driver Inject (yUDxZomGKYUyNxkByTOGkrNZnIkGW)": {
+    "count": 1,
+    "report_ids": [
+      411327
     ],
     "results": {
       "Обнаружены читы": 1
@@ -5021,9 +5057,8 @@
     }
   },
   "IMGUI LIBRARY SIGNATURE": {
-    "count": 85,
+    "count": 86,
     "report_ids": [
-      383916,
       384015,
       384018,
       384022,
@@ -5072,10 +5107,11 @@
       409237,
       410475,
       410759,
-      410762
+      410762,
+      410978
     ],
     "results": {
-      "Обнаружены читы": 85
+      "Обнаружены читы": 86
     }
   },
   "INTERIUM HACK (VVxYWF0gZGJlZGE3ZmY2NDc1NTFmNzA3MDBhMGI4Mzk2NTUxNmE.exe)": {
@@ -5818,13 +5854,14 @@
     }
   },
   "Memsense Hack (fe095aa4db5524850b9a19302a455b537b512af2 (2).zip)": {
-    "count": 2,
+    "count": 3,
     "report_ids": [
       407038,
-      407061
+      407061,
+      411066
     ],
     "results": {
-      "Обнаружены читы": 2
+      "Обнаружены читы": 3
     }
   },
   "Metla": {
@@ -5857,9 +5894,8 @@
     }
   },
   "Midnight Hack": {
-    "count": 61,
+    "count": 62,
     "report_ids": [
-      379859,
       380108,
       380322,
       380331,
@@ -5908,10 +5944,11 @@
       410291,
       410306,
       410325,
-      410345
+      410345,
+      411327
     ],
     "results": {
-      "Обнаружены читы": 61
+      "Обнаружены читы": 62
     }
   },
   "Mouse Aim/Macro WEBSITE (03F320DB23D3.exe)": {
@@ -6091,6 +6128,15 @@
       "Обнаружены читы": 1
     }
   },
+  "NEVERLOSE HACK (nHfSCnw2.exe)": {
+    "count": 1,
+    "report_ids": [
+      411066
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
   "NINJA CHEAT WEBSITE (free_cs_1.6_hacks_-_cheater.ninja.7z)": {
     "count": 1,
     "report_ids": [
@@ -6138,11 +6184,8 @@
     }
   },
   "No smoke": {
-    "count": 133,
+    "count": 136,
     "report_ids": [
-      392811,
-      392816,
-      392961,
       393018,
       393022,
       393030,
@@ -6189,10 +6232,13 @@
       409769,
       409989,
       410154,
-      410281
+      410281,
+      411081,
+      411136,
+      411162
     ],
     "results": {
-      "Обнаружены читы": 133
+      "Обнаружены читы": 136
     }
   },
   "NorAdrenaline Hack": {
@@ -6542,9 +6588,8 @@
     }
   },
   "Oxware Hack (oxware.exe)": {
-    "count": 141,
+    "count": 142,
     "report_ids": [
-      396999,
       397085,
       397223,
       397416,
@@ -6593,10 +6638,11 @@
       410325,
       410735,
       410759,
-      410762
+      410762,
+      411446
     ],
     "results": {
-      "Обнаружены читы": 141
+      "Обнаружены читы": 142
     }
   },
   "Oxware Hack (ybebkJner.rkr)": {
@@ -6631,7 +6677,7 @@
     }
   },
   "Oxware hack": {
-    "count": 8,
+    "count": 9,
     "report_ids": [
       384424,
       386264,
@@ -6640,10 +6686,11 @@
       396999,
       404230,
       406591,
-      410735
+      410735,
+      411446
     ],
     "results": {
-      "Обнаружены читы": 8
+      "Обнаружены читы": 9
     }
   },
   "PSilentWare (psilentwarev4)": {
@@ -6689,6 +6736,15 @@
     "count": 1,
     "report_ids": [
       407818
+    ],
+    "results": {
+      "Обнаружены читы": 1
+    }
+  },
+  "PrimorDial Hack (primordial-loader.zip)": {
+    "count": 1,
+    "report_ids": [
+      411066
     ],
     "results": {
       "Обнаружены читы": 1
